@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1760584086197
+current_stage: Staging
+description: null
+last_updated_timestamp: 1760584184017
+name: llm_gemini_chat
+run_id: 70339e75db774ca38d7418d709c2a113
+run_link: null
+source: file:///C:/Users/Christian/Documents/mlflow/mlruns/869475904872492092/70339e75db774ca38d7418d709c2a113/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Christian/Documents/mlflow/mlruns/869475904872492092/70339e75db774ca38d7418d709c2a113/artifacts/model
+user_id: null
+version: 1

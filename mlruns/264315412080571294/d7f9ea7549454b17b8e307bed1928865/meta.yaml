@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/Documents/mlflow/mlruns/264315412080571294/d7f9ea7549454b17b8e307bed1928865/artifacts
+end_time: 1760583679829
+entry_point_name: ''
+experiment_id: '264315412080571294'
+lifecycle_stage: active
+run_id: d7f9ea7549454b17b8e307bed1928865
+run_name: promedio_diferente
+run_uuid: d7f9ea7549454b17b8e307bed1928865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760583679785
+status: 3
+tags: []
+user_id: Christian

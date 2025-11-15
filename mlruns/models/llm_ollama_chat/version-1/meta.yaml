@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1760584089479
+current_stage: Staging
+description: null
+last_updated_timestamp: 1760584190289
+name: llm_ollama_chat
+run_id: eb7198f3fc704b698699dde0116b1087
+run_link: null
+source: file:///C:/Users/Christian/Documents/mlflow/mlruns/869475904872492092/eb7198f3fc704b698699dde0116b1087/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Christian/Documents/mlflow/mlruns/869475904872492092/eb7198f3fc704b698699dde0116b1087/artifacts/model
+user_id: null
+version: 1

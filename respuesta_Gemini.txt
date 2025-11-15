@@ -1,0 +1,11 @@
+El **aprendizaje profundo** (o *deep learning*) es una rama de la inteligencia artificial y un subcampo del *machine learning* que se inspira en el funcionamiento del cerebro humano.
+
+Su característica principal es que utiliza **redes neuronales artificiales** con **muchas capas** (de ahí lo de "profundo"). Cada capa aprende a identificar patrones y características cada vez más complejas de los datos.
+
+En resumen:
+
+1.  **Redes Neuronales:** Se compone de "neuronas" interconectadas, organizadas en capas.
+2.  **Profundidad:** Tiene varias capas ocultas que procesan la información de forma jerárquica. La primera capa detecta características simples (bordes en una imagen), y las siguientes combinan esas características para reconocer elementos más complejos (ojos, caras, objetos completos).
+3.  **Aprendizaje Automático:** Se entrena con grandes volúmenes de datos (imágenes, texto, audio) para aprender a reconocer patrones y tomar decisiones, sin necesidad de ser programado explícitamente para cada tarea.
+
+Es la tecnología detrás de cosas como el reconocimiento facial, los traductores automáticos, los asistentes de voz (Siri, Alexa), los coches autónomos y modelos de lenguaje como ChatGPT.

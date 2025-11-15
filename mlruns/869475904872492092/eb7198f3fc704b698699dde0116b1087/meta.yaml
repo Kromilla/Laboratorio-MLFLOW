@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Christian/Documents/mlflow/mlruns/869475904872492092/eb7198f3fc704b698699dde0116b1087/artifacts
+end_time: 1760584089509
+entry_point_name: ''
+experiment_id: '869475904872492092'
+lifecycle_stage: active
+run_id: eb7198f3fc704b698699dde0116b1087
+run_name: Ollama_run
+run_uuid: eb7198f3fc704b698699dde0116b1087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760584086218
+status: 3
+tags: []
+user_id: Christian

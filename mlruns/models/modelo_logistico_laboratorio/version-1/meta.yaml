@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1760583694312
+current_stage: Production
+description: null
+last_updated_timestamp: 1760583706017
+name: modelo_logistico_laboratorio
+run_id: 5ff0a25d18a3450ebe0e6b89a21a8e5e
+run_link: null
+source: file:///C:/Users/Christian/Documents/mlflow/mlruns/737948140961245115/5ff0a25d18a3450ebe0e6b89a21a8e5e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Christian/Documents/mlflow/mlruns/737948140961245115/5ff0a25d18a3450ebe0e6b89a21a8e5e/artifacts/model
+user_id: null
+version: 1

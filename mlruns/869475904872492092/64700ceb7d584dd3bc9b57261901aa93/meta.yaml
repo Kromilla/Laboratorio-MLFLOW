@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Christian/Documents/mlflow/mlruns/869475904872492092/64700ceb7d584dd3bc9b57261901aa93/artifacts
+deleted_time: 1760584125293
+end_time: 1760583853594
+entry_point_name: ''
+experiment_id: '869475904872492092'
+lifecycle_stage: deleted
+run_id: 64700ceb7d584dd3bc9b57261901aa93
+run_name: gemini-1.5-flash_Gemini
+run_uuid: 64700ceb7d584dd3bc9b57261901aa93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760583853493
+status: 4
+tags: []
+user_id: Christian
